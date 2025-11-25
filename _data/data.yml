@@ -8,8 +8,8 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Kevin Wu
-  subname: 吴月锦
+  name: 吴月锦
+  subname: Kevin Wu
   tagline: Master's degree candidate
   avatar: my_image.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
